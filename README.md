@@ -12,4 +12,4 @@ Side A - Bee uses a synth from [SCLOrkSynths](https://github.com/SCLOrkHub/SCLOr
 
 Side B - Not Bee 1 and Side Bee - Not Bee 2 where made using the same code.
 
-All files are licensed under the GNU GPLv3 license (see file GNU GPLv3 LICENSE).
+All files are licensed under the GNU GPLv2 license (see file GNU GPLv2 LICENSE).
