@@ -1,5 +1,5 @@
 # Hora
-Source code for the album Hora. To run any songs, use [Sonic Pi](https://sonic-pi.net/) and first edit and run config.rb. You can find a recorded version of this album [here](https://beguiledbyguillotining.bandcamp.com/album/hora).
+Source code for the album Hora. To run any songs, use [Sonic Pi](https://sonic-pi.net/) and first edit and run config.rb. You can find a recorded version of this album [here](https://junber.bandcamp.com/album/hora).
 
 Songs:
 1. Side A - Bee
